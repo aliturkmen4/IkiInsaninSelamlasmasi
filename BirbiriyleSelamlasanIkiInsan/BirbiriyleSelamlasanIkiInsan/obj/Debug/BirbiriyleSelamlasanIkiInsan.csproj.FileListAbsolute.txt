@@ -1,0 +1,7 @@
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\BirbiriyleSelamlasanIkiInsan\BirbiriyleSelamlasanIkiInsan\bin\Debug\BirbiriyleSelamlasanIkiInsan.exe.config
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\BirbiriyleSelamlasanIkiInsan\BirbiriyleSelamlasanIkiInsan\bin\Debug\BirbiriyleSelamlasanIkiInsan.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\BirbiriyleSelamlasanIkiInsan\BirbiriyleSelamlasanIkiInsan\bin\Debug\BirbiriyleSelamlasanIkiInsan.pdb
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\BirbiriyleSelamlasanIkiInsan\BirbiriyleSelamlasanIkiInsan\obj\Debug\BirbiriyleSelamlasanIkiInsan.csproj.AssemblyReference.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\BirbiriyleSelamlasanIkiInsan\BirbiriyleSelamlasanIkiInsan\obj\Debug\BirbiriyleSelamlasanIkiInsan.csproj.CoreCompileInputs.cache
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\BirbiriyleSelamlasanIkiInsan\BirbiriyleSelamlasanIkiInsan\obj\Debug\BirbiriyleSelamlasanIkiInsan.exe
+C:\Users\alitu\OneDrive\Masaüstü\ConsoleÇalışma\BirbiriyleSelamlasanIkiInsan\BirbiriyleSelamlasanIkiInsan\obj\Debug\BirbiriyleSelamlasanIkiInsan.pdb
